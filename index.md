@@ -24,4 +24,4 @@ Como usar as ferramentas do Github para ser mais eficiente?
 
 ### Conflitos
 
-Dérick teste
+Dérick teste 2
