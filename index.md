@@ -18,7 +18,7 @@ Como usar as ferramentas do Github para ser mais eficiente?
 
 ### Review
 
-### Rules
+### Rules ok
 
 ### Documentação
 
