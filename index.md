@@ -10,6 +10,8 @@ PARABÉNNSSSSSS CLEBENNNNN JRRRRRRR
 
 ### Github Issues
 
+GitHub Issues permite que listemos todas as tasks de um projeto, assim como problemas que possam surgir durante o desenvolvimento.
+
 ### Github Discussions
 
 ### Branches
