@@ -54,4 +54,6 @@ Em resumo, os templates para issues no GitHub facilitam a comunicação, aumenta
 
 ### Conflitos
 
+Gabriel Trigueior <img src="https://media2.giphy.com/media/yXqtLCKg738GtgeCQf/200w.gif" alt="simon puto" width="100"/>
+
 Dérick teste 2
