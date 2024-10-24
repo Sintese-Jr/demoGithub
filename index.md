@@ -1,11 +1,7 @@
 # Demo Github
 
 Como usar as ferramentas do Github para ser mais eficiente?
-
-## Conceitos e Ferramentas
-
-### Github Projects
-
+### Jvpascale teste SCRUM MASTER teste
 ### Github Issues
 
 ### Github Discussions
